@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavProps.SampleApp", "NavProps.SampleApp\NavProps.SampleApp.csproj", "{C5724C7C-BB17-446C-BC80-B25DCF5F59D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavProps", "NavProps\NavProps.csproj", "{7AFE3C5D-81DA-499B-BB82-EC8E4F1D11EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5724C7C-BB17-446C-BC80-B25DCF5F59D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5724C7C-BB17-446C-BC80-B25DCF5F59D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5724C7C-BB17-446C-BC80-B25DCF5F59D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5724C7C-BB17-446C-BC80-B25DCF5F59D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFE3C5D-81DA-499B-BB82-EC8E4F1D11EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFE3C5D-81DA-499B-BB82-EC8E4F1D11EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFE3C5D-81DA-499B-BB82-EC8E4F1D11EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFE3C5D-81DA-499B-BB82-EC8E4F1D11EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
