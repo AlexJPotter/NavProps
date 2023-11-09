@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavProps.SampleApp", "NavPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavProps", "NavProps\NavProps.csproj", "{7AFE3C5D-81DA-499B-BB82-EC8E4F1D11EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavProps.DependentApp", "NavProps.DependentApp\NavProps.DependentApp.csproj", "{0128ECD0-893E-4DC0-8699-4394D87D4BE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7AFE3C5D-81DA-499B-BB82-EC8E4F1D11EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AFE3C5D-81DA-499B-BB82-EC8E4F1D11EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AFE3C5D-81DA-499B-BB82-EC8E4F1D11EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0128ECD0-893E-4DC0-8699-4394D87D4BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0128ECD0-893E-4DC0-8699-4394D87D4BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0128ECD0-893E-4DC0-8699-4394D87D4BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0128ECD0-893E-4DC0-8699-4394D87D4BE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -8,6 +8,10 @@ public class Department
 
     public ICollection<Employee>? Employees { get; private set; }
 
+    public int? OfficeId { get; private set; }
+    public Office? Office { get; private set; }
+
+
     public Department(string name)
     {
         DepartmentId = default;
