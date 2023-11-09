@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <Version>0.0.1-alpha</Version>
+        <Version>0.0.2-alpha</Version>
         <Authors>Alex Potter</Authors>
         <Description>Source-generated helpers to simplify working with navigation properties in Entity Framework</Description>
         <Copyright>Copyright Alex Potter</Copyright>
