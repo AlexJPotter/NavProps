@@ -15,7 +15,9 @@ public class NavigationPropertyFinder
 
     public List<NavigationProperty> FindNavigationProperties(List<string> modelClassTypeNames)
     {
-        var propertySymbols = modelClass.NamedTypeSymbol.GetPropertiesWithTypeInList(modelClassTypeNames);
+        var propertySymbols =
+            modelClass.NamedTypeSymbol.GetPropertiesWithTypeInList(modelClassTypeNames)
+                .Where(property => property.SetMethod != null);
 
         return
             propertySymbols
