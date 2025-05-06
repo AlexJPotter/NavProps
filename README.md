@@ -28,7 +28,7 @@ Install the `NavProps` package from NuGet and ensure the `OutputItemType` and `R
 ```xml
 <PackageReference
     Include="NavProps"
-    Version="0.0.1-alpha"
+    Version="0.0.3-alpha"
     OutputItemType="Analyzer"
     ReferenceOutputAssembly="false"
 />
